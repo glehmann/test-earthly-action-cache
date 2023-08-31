@@ -19,4 +19,4 @@ jobs:
     - uses: earthly/actions-setup@v1.0.4
       with:
         version: 0.7.15
-        use-cache: "false"
+        # use-cache: "false"
