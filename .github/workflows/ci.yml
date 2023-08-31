@@ -16,7 +16,7 @@ jobs:
     runs-on: [ubuntu-latest]
     steps:
     - uses: actions/checkout@v3
-    - uses: earthly/actions-setup@v1.0.3
+    - uses: earthly/actions-setup@v1.0.2
       with:
         version: 0.7.15
         # use-cache: "false"
