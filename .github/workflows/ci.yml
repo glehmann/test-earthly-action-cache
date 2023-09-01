@@ -19,4 +19,4 @@ jobs:
     - uses: glehmann/actions-setup@fix-use-cache
       with:
         version: 0.7.15
-        # use-cache: "false"
+        use-cache: "false"
